@@ -1,4 +1,4 @@
-# Portofolio Pribadi | Faishal Arrasyid 🚀
+# Portofolio Pribadi | Faishal Arrasyid 
 
 Selamat datang di repositori portofolio pribadi saya! Proyek ini adalah situs web portofolio interaktif dan modern yang dibangun untuk memamerkan keahlian saya sebagai seorang **Frontend Web Developer**, serta menampilkan hobi dan proyek-proyek terbaru saya.
 

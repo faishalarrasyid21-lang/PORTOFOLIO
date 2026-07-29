@@ -54,7 +54,7 @@ Jika Anda ingin mencoba menjalankan atau bereksperimen dengan proyek ini di komp
    ```bash
    npm run dev
    ```
-   Situs akan berjalan secara lokal (biasanya di `http://localhost:5173/`).
+   Situs akan berjalan secara lokal.
 
 4. **Kompilasi (Build) untuk Produksi:**
    ```bash

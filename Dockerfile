@@ -8,8 +8,6 @@ RUN npm run build
 
 # Tahap 2: Ruang Saji (Nginx)
 FROM nginx:alpine
-# PENTING: Karena kita menggunakan Vite, kita salin dari /app/dist
 COPY --from=builder /app/dist /usr/share/nginx/html
-
 EXPOSE 80
 CMD ["nginx", "-g", "daemon off;"]
